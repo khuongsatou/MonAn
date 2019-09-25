@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="gao">Gạo</string>
+    <string name="bo">Bơ</string>
+    <string name="tao">Táo</string>
+    <string name="cam">Cam</string>
+</resources>
